@@ -1,4 +1,3 @@
-
 # Darkweb Crawler Fullstack Project
 
 A full-stack application for searching, scraping, and previewing dark web (.onion) and clearnet sites. Built with a FastAPI backend and a Vite React frontend.
@@ -92,7 +91,4 @@ MIT License
 ---
 
 For any issues, check this README or ask for help!
-=======
-# DarkWeb_Crawler
-A full-stack FastAPI + React app for searching, scraping, and offline viewing of dark web (.onion) and clearnet sites.
 
